@@ -27,6 +27,6 @@
     "peer": "^0.2.10",
     "react-codemirror": "^1.0.0",
     "serve-favicon": "^2.3.2",
-    "socket.io": "^1.7.3"
+    "socket.io": "^2.4.0"
   }
 }
