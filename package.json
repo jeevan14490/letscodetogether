@@ -19,7 +19,7 @@
     "mongo-store": "0.0.2",
     "mongoose": "^5.3.15",
     "morgan": "~1.9.0",
-    "nodemailer": "^3.1.5",
+    "nodemailer": "^6.4.16",
     "ot": "git+https://github.com/Operational-Transformation/ot.js.git",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.1",
